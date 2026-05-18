@@ -70,6 +70,4 @@ Web and mobile applications using modern technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ben2221)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ben2221&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=Ben2221&label=Profile%20Views&color=0e75b6&style=flat)
