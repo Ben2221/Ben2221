@@ -59,9 +59,9 @@ Web and mobile applications using modern technologies.
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Ben2221&show_icons=true&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api?username=Ben2221&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben2221&layout=compact&theme=tokyonight)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Ben2221&layout=compact&theme=tokyonight)
 
 ---
 
@@ -69,4 +69,4 @@ Web and mobile applications using modern technologies.
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ben2221)
 
-![](https://komarev.com/ghpvc/?username=Ben2221)
+(https://komarev.com/ghpvc/?username=Ben2221)
