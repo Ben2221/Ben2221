@@ -48,12 +48,18 @@ automation, and intelligent systems work together.
 
 #### ⚖️ Legal AI Assistant
 AI-powered legal assistant for Indian law using RAG and PDFs.
+🔗 [View Project](https://github.com/Ben2221/AskMeLaw)
+🔗 [Live](https://askmelaw.benser.tech)
 
 #### 🔐 Cybersecurity Labs
 Juice Shop vulnerability testing, authentication analysis, scanning.
+🔗 [View Project](https://github.com/Ben2221/HexaScan)
+🔗 [Live](https://hexascan.benser.tech)
 
 #### 📱 Full Stack Apps
 Web and mobile applications using modern technologies.
+🔗 [View Project](https://github.com/Ben2221/HopAlong)
+🔗 [Live](https://hopalong.benser.tech)
 
 ---
 
