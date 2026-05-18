@@ -59,9 +59,10 @@ Web and mobile applications using modern technologies.
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Ben2221&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ben2221&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ben2221&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ben2221&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
 ---
 
