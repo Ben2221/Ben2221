@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Ben
 
-<!--
-**Ben2221/Ben2221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+🔐 Interested in Cybersecurity  
+🚀 Building Web & Mobile Apps  
+⚖️ Working on an Indian Legal AI Assistant
 
-Here are some ideas to get you started:
+## Tech Stack
+- JavaScript
+- React
+- Node.js
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- 🔒 Cybersecurity Labs
+- 🤖 Legal RAG Assistant
+- 📱 Mobile App Development
+
+## Connect With Me
+- GitHub: https://github.com/yourusername
