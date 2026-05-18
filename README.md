@@ -59,14 +59,14 @@ Web and mobile applications using modern technologies.
 
 ### 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Ben2221&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ben2221&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌍 Connect with me
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/Ben2221)
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
+![](https://komarev.com/ghpvc/?username=Ben2221)
