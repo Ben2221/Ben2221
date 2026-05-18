@@ -1,21 +1,72 @@
-# Hi 👋 I'm Ben
+# 👋 Hello there
 
-💻 Computer Science Student  
-🔐 Interested in Cybersecurity  
-🚀 Building Web & Mobile Apps  
-⚖️ Working on an Indian Legal AI Assistant
+I'm **Ben**, a Computer Science student passionate about
+**Cybersecurity, Full Stack Development, AI, and Mobile Apps**.
 
-## Tech Stack
-- JavaScript
-- React
-- Node.js
-- Python
-- Java
+I enjoy building real-world projects and exploring how security,
+automation, and intelligent systems work together.
 
-## Projects
-- 🔒 Cybersecurity Labs
-- 🤖 Legal RAG Assistant
-- 📱 Mobile App Development
+<table>
+<tr>
+<td width="60%">
 
-## Connect With Me
-- GitHub: https://github.com/yourusername
+### 💻 Things I'm currently working on:
+
+- 🔐 Cybersecurity projects and vulnerability testing
+- ⚖️ Building an Indian Legal AI Assistant (RAG)
+- 📱 Web & mobile app development
+- 🌐 Improving frontend and UI/UX
+- 🚀 Learning scalable backend systems
+- 🧠 Exploring AI integrations
+
+### 🌱 Current learning goals
+
+- Improve DSA and problem solving
+- Build production-ready applications
+- Learn advanced cybersecurity concepts
+- Contribute to open source
+- Improve system design knowledge
+
+### 🛠️ Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,python,java,mongodb,git,github,firebase,linux,vscode" />
+</p>
+
+</td>
+
+<td width="40%">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%">
+</td>
+
+</tr>
+</table>
+
+---
+
+### 📌 Featured Projects
+
+#### ⚖️ Legal AI Assistant
+AI-powered legal assistant for Indian law using RAG and PDFs.
+
+#### 🔐 Cybersecurity Labs
+Juice Shop vulnerability testing, authentication analysis, scanning.
+
+#### 📱 Full Stack Apps
+Web and mobile applications using modern technologies.
+
+---
+
+### 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🌍 Connect with me
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME)
